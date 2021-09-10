@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Vint-Razor
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning  Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: vint-razor@yandex.ru
+Hi, I’m @Vint-Razor
+I'm learning java
 
 <!---
 Vint-Razor/Vint-Razor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
