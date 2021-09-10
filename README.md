@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vint-Razor
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning C++, Java
+- 🌱 I’m currently learning  Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vint-razor@yandex.ru
 
