@@ -1,5 +1,8 @@
-Hi, I’m @Vint-Razor</br>
-I'm learning java
+## Привет @Vint-Razor</br>
+***
+- изучаю java
+- изучаю радиоэлекронику
+- а ещё я промышленный альпинист
 
 <!---
 Vint-Razor/Vint-Razor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
